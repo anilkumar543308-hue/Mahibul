@@ -1,0 +1,8 @@
+{
+  "name": "Page automation ",
+  "description": "Multi-account and multi-page social media automation app with Gemini & Imagen content generation and Meta Graph API simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
